@@ -1,0 +1,274 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The beacons quenched: or The humble information of divers officers of the Army, and other wel-affected persons, to the Parliament and Common-wealth of England; concerning the Machivilian design of the Presbyterians, now carrying on by the Stationers of London. To bring an odium upon the Parliament and Army, introduce the whole body of Presbyterian doctrine and worship. seduce the good people of this Common-wealth, unto the Presbyterian slavery, than which nothing can be worse. By publishing divers treasonable and most scandalous books (a catalogue of many whereof is here inserted) against the honor of the Parliament, the Lord Generall, and severall other worthy members of this Common-Wealth.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90998</idno>
+            <idno type="STC">Wing P3409</idno>
+            <idno type="STC">Thomason E678_3</idno>
+            <idno type="STC">ESTC R203208</idno>
+            <idno type="EEBO-CITATION">99863252</idno>
+            <idno type="PROQUEST">99863252</idno>
+            <idno type="VID">115442</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90998)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115442)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 104:E678[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The beacons quenched: or The humble information of divers officers of the Army, and other wel-affected persons, to the Parliament and Common-wealth of England; concerning the Machivilian design of the Presbyterians, now carrying on by the Stationers of London. To bring an odium upon the Parliament and Army, introduce the whole body of Presbyterian doctrine and worship. seduce the good people of this Common-wealth, unto the Presbyterian slavery, than which nothing can be worse. By publishing divers treasonable and most scandalous books (a catalogue of many whereof is here inserted) against the honor of the Parliament, the Lord Generall, and severall other worthy members of this Common-Wealth.</title>
+                  <author>Pride, Thomas, d. 1658.</author>
+               </titleStmt>
+               <extent>[2], 5-16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hils, and are to be sold by Giles Calvert at the Black spread-Eagle at the west-end of Pauls, and William Larner at the Blackmoor at Fleet-Bridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on A4v: Thomas Pride, Col. [and 7 others].</note>
+                  <note>The words "bring an odium .. worse." are bracketed together on title page.</note>
+                  <note>Includes bibliography.</note>
+                  <note>Annotation on Thomason copy: "Octob. 8.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pride, Thomas, d. 1658.</term>
+               <term>Stationers' Company (London, England) --  Early works to 1800.</term>
+               <term>Presbyterianism --  Controversial literature --  Early works to 1800.</term>
+               <term>Presbyterianism --  Bibliography --  Catalogs --  Early works to 1800.</term>
+               <term>Prohibited books --  England --  Early works to 1800.</term>
+               <term>Censorship --  England --  Early works to 1800.</term>
+               <term>Booksellers and bookselling --  England --  London --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115442:1" rendition="simple:additions"/>
+            <p>THE Beacons Quenched: OR The Humble Information of divers Officers of the Army, and other wel-affected per<g ref="char:EOLhyphen"/>ſons, to the Parliament and Common-wealth of ENGLAND; Concerning the Machivilian deſign of the Preſbyterians, now carrying on by the Stationers of LONDON.</p>
+            <list>
+               <item>To bring an <hi>odium</hi> upon the Parliament and Army, Introduce the whole body of <hi>Presbyterian</hi> doctrine and worſhip.</item>
+               <item>To ſeduce the good People of this Common-wealth, unto the <hi>Presbyterian</hi> ſlavery, than which nothing can be worſe.</item>
+            </list>
+            <p>By Publiſhing divers Treaſonable and moſt Scandalous Books (a Catalogue of many whereof is here inſerted) againſt the Honor of the <hi>Parliament,</hi> the <hi>Lord Generall,</hi> and ſeverall other worthy Members of this <hi>COMMON-WEALTH.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Henry Hils,</hi> and are to be ſold by <hi>Giles Calvert</hi> at the <hi>Blackſpread-Eagle</hi> at the Weſt-end of <hi>Pauls,</hi> and <hi>William Larner</hi> at the <hi>Blackmoor</hi> at <hi>Fleet-Bridge,</hi> 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:115442:2"/>
+            <pb n="5" facs="tcp:115442:2"/>
+            <head>To the Supreme Authority of the Nation, the Parliament of the Common-wealth of ENGLAND.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>E that ſhall read Mr. <hi>Calamy,</hi> and his Par<g ref="char:EOLhyphen"/>ty in their late writings (ſome of them publiſhed by the <hi>Stationers</hi> petitioning) cannot but read expreſly, and by clear conſequence, Your glorious Titles to be, <hi>Speckled Vipers, Murtherers, Traytors, Rebels, Blaſphe<g ref="char:EOLhyphen"/>mers, Southſayers, Adulterers, Perjured perſons, Oppreſ<g ref="char:EOLhyphen"/>ſors, Hypocrites, Villains, Rogues, Beaſts, Antichrists, Foxes, Serpents, Lyars, <g ref="char:V">Ʋ</g>ſurpers,</hi> and the <hi>Spaniſh faction</hi> in <hi>Pul<g ref="char:EOLhyphen"/>pets,</hi> and <hi>Thrones</hi> exalted.</p>
+            <p>But if the <hi>God</hi> of Heaven, the <hi>God</hi> of <hi>Truth,</hi> have writ your <hi>Names</hi> aright (with the beams of the <hi>Noon-day Sun</hi> in the eies of all the <hi>Nations</hi> of the World) You are the <hi>Saviours</hi> of the Oppreſſed, the <hi>Conquerors</hi> of Ty<g ref="char:EOLhyphen"/>rants, and the <hi>Breakers</hi> of thoſe <hi>Clergicall</hi> Yoakes, whoſe Authors would ſtill ſubſcribe (as the <hi>Butcher</hi>
+               <pb n="6" facs="tcp:115442:3"/>
+and <hi>Butchers</hi> ſon in <hi>Henry</hi> the eighth his daies) <hi>Ego et Rex Meus, I</hi> and my <hi>King, I</hi> and my <hi>Parliament, I</hi> and my <hi>People,</hi> &amp;c.</p>
+            <p>Your Honors have lately been alarumd with the noiſe of <hi>Popiſh books, Blaſphemous books,</hi> &amp;c. and had we heard and ſeen no more but ſuch fair <hi>Graſs,</hi> with<g ref="char:EOLhyphen"/>out a <hi>Snake,</hi> and the Plots of our conſtant <hi>Powder-Miners,</hi> we had held our peace. But rummaging in their dark <hi>Cellars,</hi> and finding under the <hi>Covers</hi> of proviſion againſt Winter, the horrid ſtore of <hi>Gun-powder</hi> lie covered; We cannot but in faithfullneſs tell your <hi>Honors,</hi> the Plot is, to amuſe you with the noiſe of <hi>Po<g ref="char:EOLhyphen"/>pery,</hi> and <hi>Blaſphemy,</hi> and in the interim to ſpring their <hi>Mines,</hi> to blow up your <hi>Selves,</hi> the <hi>Councill,</hi> and <hi>Army,</hi> our Victories, our Families, our Freedoms. For they hope yet for the day (ſince while you <hi>wake</hi> they cannot wring it out) to ſteal the <hi>Sword</hi> of God out of your hands, while <hi>ſleeping.</hi> For can your Ho<g ref="char:EOLhyphen"/>nors imagine that ſuch <hi>Licenſers</hi> who write ſuch lan<g ref="char:EOLhyphen"/>guage above-ſaid, will ever ſet your Honors <hi>Impri<g ref="char:EOLhyphen"/>matur</hi> to any Lines but of the ſame unclean and Trea<g ref="char:EOLhyphen"/>ſonable <hi>Spirit?</hi>
+            </p>
+            <p>And for the <hi>Stationers</hi> ſubſcribing to the firſt &amp; ſe<g ref="char:EOLhyphen"/>cond <hi>Beacons,</hi> do all thoſe golden <hi>Characters</hi> of Zeal &amp; Holineſs, ſpell any more than plain <hi>Presbytery?</hi> Is not the ſale of <hi>Popiſh Books</hi> the greateſt part of the trade of ſome of them, who are alſo ſtrongly reported to have a Factor in <hi>Rome</hi> it ſelf? Hath not the moſt Treaſonable book that ever was printed againſt the State been certainly bought at the ſhop of ſome of them, even ſince they fired the <hi>Beacon</hi> to the <hi>Parliament?</hi> Do not theſe Mercenaries know that a fair <hi>current</hi> for ſober <hi>Diſputes</hi> and writings in matters of God contro<g ref="char:EOLhyphen"/>verſial,
+<pb n="7" facs="tcp:115442:3"/>
+engageth more <hi>Authors</hi> to write &amp;c. than a ſtop and ſtifling to the <hi>Spirit</hi> of <hi>God</hi> and Men?</p>
+            <p>And as to Books of <hi>Hereſie, Popery, Blaſphemy,</hi> if their be equall liberty of engaging againſt them, when did the moſt glorious <hi>Sun Chriſt Jeſus</hi> not dare to meet the darkeſt night, attended with ten thouſand <hi>Popes</hi> or <hi>Devills?</hi> And when did they ever meet and he not conquer?</p>
+            <p>Yea can it be without amazement remembred that one of their Lords (and ours, and yours that would be) ſhould proclaim that moſt blaſphemous <hi>Crack [Stupor Mundi Clerus Britannicus, the Amazement of the World, is the Clergy of Britain?]</hi> And yet our <hi>Beacons</hi> muſt be fired, and the <hi>Alarum</hi> given to the Magiſtrates <hi>Sword, Arm, Arm,</hi> &amp;c. for not a man dare ſtir of our <hi>Bri<g ref="char:EOLhyphen"/>tiſh Clergy,</hi> to receive the charge of ſome few (often conquered) <hi>Religious</hi> adverſaries.</p>
+            <p>We preſume not to propoſe, but we humbly con<g ref="char:EOLhyphen"/>ceive that your late former care of the <hi>Printers name,</hi> and readineſs to produce the <hi>Authors,</hi> or <hi>bringers</hi> of their <hi>Copies,</hi> together with ſome convenient <hi>Regulati<g ref="char:EOLhyphen"/>ons,</hi> cannot juſtly by any juſt man be complained a<g ref="char:EOLhyphen"/>gainſt.</p>
+            <p>And we pray, that as it pleaſed <hi>God</hi> (after the world of <hi>Prieſts</hi> and <hi>Biſhops</hi> had burned <hi>John Hus</hi> at <hi>Con<g ref="char:EOLhyphen"/>ſtance</hi>) to ſend immediately from <hi>Heaven</hi> this ineſti<g ref="char:EOLhyphen"/>mable <hi>Jewel</hi> of Printing, ſo it may ſtill pleaſe him, (as it hath graciouſly done ever ſince the burning of <hi>Chriſts witneſſes</hi> in Q. <hi>Maries</hi> daies) to ſtir up faithfull and able <hi>writers</hi> againſt all ſorts of <hi>Poperies</hi> and <hi>Blaſphe<g ref="char:EOLhyphen"/>mies,</hi> and to ſtir up your <hi>Noble</hi> hearts to <hi>protect</hi> and en<g ref="char:EOLhyphen"/>courage thoſe bleſſed <hi>Liberties</hi> and <hi>Endeavors.</hi>
+            </p>
+            <p>For our ſelves we ſhal deſire to draw in no longer <hi>Eng<g ref="char:EOLhyphen"/>liſh
+<pb n="8" facs="tcp:115442:4"/>
+air,</hi> than we are cordially ready to draw out our <hi>ſwords</hi> and <hi>blood</hi> at your co<g ref="char:cmbAbbrStroke">̄</g>mand, againſt the Violations of ſuch (dear bought) precious <hi>Freedomes,</hi> and againſt ſuch <hi>Treaſonable books</hi> and <hi>charges;</hi> a taſt whereof is here preſented,</p>
+            <closer>
+               <signed>
+                  <hi>By your Honours most humble ſervants,</hi>
+                  <list>
+                     <item>
+                        <hi>Thomas Pride,</hi> Col.</item>
+                     <item>
+                        <hi>William Gough,</hi> Lie. Col.</item>
+                     <item>
+                        <hi>Tobias Bridge,</hi> Maj.</item>
+                     <item>
+                        <hi>Richard Mereſt,</hi> Adjut. Gen.</item>
+                     <item>
+                        <hi>William Kiffen,</hi> Capt.</item>
+                     <item>
+                        <hi>Iſaac Gray.</hi>
+                     </item>
+                     <item>
+                        <hi>George Gosfright,</hi> Citizen.</item>
+                     <item>
+                        <hi>Samuel Richardſon,</hi> Citizen.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="information">
+            <pb n="9" facs="tcp:115442:4"/>
+            <head>The Humble Information of divers Officers of the Army, and other well-affected perſons to the Parliament and Common-wealth of <hi>England,</hi> concerning ſcandalous Presbyterian books and deſigns.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Is not any by-reſpect, but conviction of duty which puts us out to this humble addreſs, Firſt, to the <hi>Lord Chriſt,</hi> for his wonderful deliverances from a <hi>Pre<g ref="char:EOLhyphen"/>latical bondage,</hi> and a <hi>Presbyterian ſlavery,</hi> the laſt of which (though of but a ſhort continuance) yet lives freſh in the memory of all good people. Se<g ref="char:EOLhyphen"/>condly, to the renouned Parliament of the <hi>Common-wealth of Eng<g ref="char:EOLhyphen"/>land,</hi> the happy inſtruments of our freedom, and painful <hi>Labou<g ref="char:EOLhyphen"/>rers</hi> in the work of Chriſt, notwithſtanding whoſe vigilancy, we have had a ſad experience of the Plots and deſigns of a <hi>Presbyterian party,</hi> eſpecially in and about the City of <hi>London,</hi> who have not onely kept a correſpondence with thoſe of <hi>Scotland,</hi> but alſo contri<g ref="char:EOLhyphen"/>buted moneys and other encouragements to their ſeveral Invaſions; And have from time to time, by moſt malicious ſcandals and forge<g ref="char:EOLhyphen"/>ries, both in the Pulpit and at the Preſs, endeavoured to bring an <hi>odium</hi> on the Parliament and preſent Government, by affirming that the Army was a Popiſh Army, and full of Papiſts and Jeſuits, that Mr. <hi>Hugh Peters</hi> and divers others (who had bin principally active for the Parliament) were Jeſuits, and that ſuch lay-people who had a call of Spirit, and did diſpenſe their gifts (without the formal humane Ordinances of the <hi>Presbytery</hi>) were Popiſh Prieſts in diſguiſe, Nay, (which is moſt abominable, even to be repeated) they ſtuck not to affirm (ſuch was their malice) that my <hi>Lord Gene<g ref="char:EOLhyphen"/>rall</hi> was Anti-chriſt, and the man of ſin, with ſuch like horrid ſcandals and abuſes. But when their Armies of fleſh were by Chriſts own powers ſubdued both at <hi>Dunbar</hi> and <hi>Worcester,</hi> to the eter<g ref="char:EOLhyphen"/>nal memory of the 3d. day of <hi>September,</hi> the fury and inſolence of
+<pb n="10" facs="tcp:115442:5"/>
+theſe <hi>Kirkists</hi> was in ſome meaſure debelled, and their unquiet ſpirits tamed; yet through the too much mercy of the Parliament towards them, and the continuance of them in places of publique truſt and imployment, they begin to fancy new hopes, and (we have juſt cauſe to fear) are broaching new deſigns againſt the Parliament of this Commonwealth, whom we truſt the ſame great God will ſtill defend.</p>
+            <p>To this purpoſe we are certified from an eminent hand at <hi>Eden<g ref="char:EOLhyphen"/>borough</hi> by a letter dated 5 <hi>Junii</hi> laſt, and publiſhed by <hi>Mercurius Politicus, numero</hi> 106. That the <hi>Kirk Clergy preach damna<g ref="char:EOLhyphen"/>tion to ſuch as accept of the <g ref="char:V">Ʋ</g>nion, and though they agree in nothing elſe among themſelves, yet they agree in their oppoſition to the Parliament.</hi> And again in the next Mercury by another letter da<g ref="char:EOLhyphen"/>ted the 12<hi rend="sup">th</hi> of the ſame <hi>June. Indeed the spirits of diviſion, facti<g ref="char:EOLhyphen"/>on, rebellion and devil himſelf of pride doth wholly act this wild order and degeneration of men, and their rage is the greater, be<g ref="char:EOLhyphen"/>cauſe their Kingdom is falling. Nor must it be forgotten</hi> (ſayes another) <hi>what hazard our Nation hath run of late, through the malice, falſhood and faction of the late Presbyterian drivers,</hi> &amp;c. <hi>Politicus, numero</hi> 111. page 1739.</p>
+            <p>Much more might be ſaid to evidence that this rigid party of ſoul-drivers hath been the onely conſiderable party that hath oppo<g ref="char:EOLhyphen"/>ſed all along the proceedings and eſtabliſhment of our Paliament and Common-wealth, even beyond all Jeſuits and Popiſh party whatſoever, but that it is in it ſelf ſo clear, that it needs no other e<g ref="char:EOLhyphen"/>viction.</p>
+            <p>And that theſe ſix Subſcribers are of that Tribe will alſo mani<g ref="char:EOLhyphen"/>feſtly appear, as by the ſequent diſcourſe, ſo by their ſetting the <hi>firſt Beacon on fire;</hi> for they are true <hi>Salamanders</hi> in a State, and delight in nothing more than in perſecution of tender conſciences by fire and ſword; they are <hi>Boutefeux</hi> in a ſuperlative degree, whoſe chief content conſiſts in making combuſtions in all well-govern'd Common-wealths. And that the world may the better know theſe Subſcribers, take their names (according to their own ſubſcriptions) and places of abode, as follows.</p>
+            <list>
+               <pb n="11" facs="tcp:115442:5"/>
+               <head>Book-ſellers.</head>
+               <item>
+                  <hi>Luke Fawn</hi> at the ſign of the <hi>Parot in Pauls</hi> Church-yard.</item>
+               <item>
+                  <hi>Joſhua Kirton</hi> at the late <hi>Kings arms</hi> in <hi>Pauls</hi> Church-yard.</item>
+               <item>
+                  <hi>Samuel Gellibrand</hi> at the <hi>Golden Ball</hi> in the new Rents.</item>
+               <item>
+                  <hi>Thomas <g ref="char:V">Ʋ</g>nderhill</hi> at the <hi>Anchor</hi> and <hi>Bible</hi> in the new Rents.</item>
+               <item>
+                  <hi>John Rothwel</hi> at the <hi>Sun</hi> and <hi>Fountain</hi> in the new Rents.</item>
+               <item>
+                  <hi>Nathaniel Webb</hi> at the ſign of the <hi>Bear</hi> in the new Rents.</item>
+            </list>
+            <p>Theſe were the Subſcribers of that Pamphlet, but the Contrivers and counſellers of it, we ſhall in due time, and upon juſt occaſion diſcover.</p>
+            <p>Their Preamble is embelliſhed with much ſeeming zeal for exal<g ref="char:EOLhyphen"/>tation of the Goſpel of <hi>Chriſt Jeſus,</hi> which were truly commenda<g ref="char:EOLhyphen"/>ble, if it came from pure hearts, but we have too great an aſſurance that Self-intereſt is their aim, and Hypocriſie their zeal.</p>
+            <p>In the firſt Section they intimate a fear <hi>to be neceſſitated to leave their calling,</hi> (for want of trade) rather than <hi>the pretence of keep<g ref="char:EOLhyphen"/>ing their</hi> conſciences pure; And in the fourth they inſinuate Propo<g ref="char:EOLhyphen"/>ſals for effecting their deſires, and ſo would fain ſerue themſelves into ſome <hi>Office</hi> or <hi>Monopoly</hi> for licenſing, printing, and ſelling of books, that they might engroſs the Trade, and laſh their neighbours with ſome <hi>Presbyterian whips,</hi> and none be permitted to publiſh any thing but what they pleaſe.</p>
+            <p>In the ſecond Section the Pamphlet ſaies, <hi>The Parliament well knowing that the Common People of this Nation will be of one Re<g ref="char:EOLhyphen"/>ligion or other, and if by publique authority they be not kept to the Reformed Religion, they will be eaſily drawn to the Po<g ref="char:EOLhyphen"/>piſh.</hi>
+            </p>
+            <p>Here they ſpeak plain <hi>Engliſh,</hi> and would have a coercive power in matters of Religion, a (<hi>Presbyterian</hi> Claſs would do well, but let it have ſome new name,) that may excommunicate, enjoin Penances, pronounce Cenſures (and what would this be leſs than a <hi>Spaniſh Inquiſition</hi>) &amp;c? And then the Subſcribers would be pleaſed; But they know both the <hi>Parliament</hi> and <hi>Army</hi> have often declared againſt ſuch proceedings, and <hi>Have diſclaimed all other puniſhments for matters of Religion, and will not</hi> (we are
+<pb n="12" facs="tcp:115442:6"/>
+confident) <hi>permit them to be revived under any image or ſhape whatſoever;</hi>
+               <note place="margin">See the Par<g ref="char:EOLhyphen"/>liaments An<g ref="char:EOLhyphen"/>ſwer to Scotch Papers in March <hi>1647</hi> fol. <hi>43</hi> &amp; <hi>63.</hi>
+               </note> 
+               <hi>the weapons of Faſting and Prayer</hi> (to ſpeak in the <hi>Parliaments</hi> own words) <hi>being both more available and more Christian in ſuch caſes, than thoſe of force and violence, &amp;c.</hi>
+            </p>
+            <p>And how ſimple are theſe Subſcribers to imagine that the Truth of Chriſts holy Religion needs the ſupport of human arms to ſuſtain it, or that the Parliament will make uſe of any power to ſo unlaw<g ref="char:EOLhyphen"/>full an end? An excellent late Treatiſe, entituled <hi>Zeal Exami<g ref="char:EOLhyphen"/>ned,</hi> will give them better light in this point of Liberty of Conſci<g ref="char:EOLhyphen"/>ence.</p>
+            <p>And how diſtruſtfull are theſe men of Gods Providence, and doubtfull of our own ſtrength, to imagine, that any Papiſt can ſay more than we, or write more than we can anſwer? We deſire nothing more than that they and all diſſenters ſhould propound their doubts in a Chriſtian way, either by Word or by Epiſtle, and meet in the love of Chriſt for better inſtruction.</p>
+            <p>They forget that about the beginning of <hi>July</hi> laſt a Petition was preſented to the Parliament by many thouſands of well-affected perſons, one braneh whereof was, <hi>That the Preſs might be open to all,</hi> which theſe men would by a ſubtill inſinuation ſhut againſt all but themſelves; Yet it was not intended by that Petition, that the Preſs ſhould be open for any ſuch ſcandalous Books of Libells againſt the State and preſent Government, as at leaſt ſome of the Subſcribers will appear to have of late printed and publiſhed.</p>
+            <p>Now (if it were worth the examining) we might certainly find many Untruths alſo in a few leaves of that <hi>Pamphlet;</hi> As that all the Books there mentioned were printed in <hi>England,</hi> is very doubt<g ref="char:EOLhyphen"/>full, and that 1500 ſhould be printed of every ſort is moſt improba<g ref="char:EOLhyphen"/>ble.</p>
+            <p>And we cannot but take notice that theſe Subſcribers rank the <hi>Chri<g ref="char:EOLhyphen"/>ſtian Moderator</hi> amongſt Popiſh Books; becauſe it equally rejects the <hi>Epiſcopall Bondage,</hi> and <hi>Presbyterian Slavery,</hi> &amp; holds forth an abſolute incoertion in matters of inward beleef, which theſe men love not to hear of, nor of any Chriſtian Moderation; nor hath that Book (to our beſt remembrance) any one word againſt the State, or preſent Government, but much in honor of the ſame, and of di<g ref="char:EOLhyphen"/>vers Members thereof.</p>
+            <p>In page 13 they ſay, <hi>That Chriſtians of a different beleef
+<pb n="13" facs="tcp:115442:6"/>
+are not tolerated to profeſs their Religion among Papiſts.</hi>
+            </p>
+            <p>How then do ſo many thouſands enjoy a perfect liberty of con<g ref="char:EOLhyphen"/>ſcience without any mulct or penalty, even in <hi>France</hi> our next neighbouring Countrey? We ought to ſpeak truth, even of our ene<g ref="char:EOLhyphen"/>mies whomſoever.</p>
+            <p>As for the <hi>Popiſh Books</hi> mentioned in their Catalogue, we do beleeve (upon good information) that the greateſt part of them only hold forth Morall Divinity, as they call it, with exhortation to, and rules of good life; which it ſeems the Subſcribers do not deſire to be guilty of; And if thoſe Books have 19 parts of good Matter, and the 20th. part Popery, it were great pitty the much good ſhould ſuffer for the little evill, as it was excellently ſaid by a Worthy Member of Parliament upon occaſion of debate concern<g ref="char:EOLhyphen"/>ing the <hi>Racovian Catechiſm,</hi> who upon that reaſon paſſed his Vote againſt the burning of it.</p>
+            <p>For what theſe Pampheteers urge againſt Mr. <hi>Hobbs,</hi> and Mr. <hi>Joſua Sprigg,</hi> out of their <hi>Leviathan,</hi> and <hi>Testimony to approach<g ref="char:EOLhyphen"/>ing Glory,</hi> we have not time at preſent to examine whether the points are truly cited: however thoſe perſons are very well able to anſwer for themſelves; only this we may gather, that they are the more violent, as we conceive, againſt Mr. <hi>Sprigg,</hi> for being the Author of that excellent piece entituled <hi>Anglia Rediviva,</hi> wher<g ref="char:EOLhyphen"/>in the Noble Acts of that renowned <hi>Generall, Thomas Lord Fair<g ref="char:EOLhyphen"/>fax,</hi> are memorized, by whoſe gallantry and ſucceſs the <hi>Presbyte<g ref="char:EOLhyphen"/>rian Tyranny</hi> began firſt to be abated.</p>
+            <p>And to ſhew the Hypocriſy of theſe men, who though in page third ſay, they <hi>fear left we ſhould be tempted, for want of other trade, to be venders of ſuch loathſome wares</hi> (as Popiſh Books) <hi>or elſe neceſſitated to leave our callings to keep our Conſciences pure;</hi> yet it will be ſufficiently proved, that at leaſt ſome of theſe Subſcribers do daily ſell both <hi>Latin</hi> and <hi>Engliſh Popiſh Books,</hi> if they can get Cuſtomers for them; And did lately quarrel with one of their Neighbour Book-ſellers becauſe he would not exchange the Books called the <hi>Holy Court</hi> for ſome of their <hi>Presbyterian</hi> Books.</p>
+            <p>Now the truth is, this party of men make an appearance of zeal againſt Papiſts and Popiſh Books, the better to diſguiſe their de<g ref="char:EOLhyphen"/>ſigns; when as their malice and ſpleen is againſt the well-affe<g ref="char:EOLhyphen"/>cted,
+<pb n="14" facs="tcp:115442:7"/>
+whom they ſtile <hi>Independents,</hi> and Sectaries, and would fain bring the world to that paſs, that no Religious perſon what<g ref="char:EOLhyphen"/>ſoever ſhould write any Book, but what ſhould firſt paſs the Teſt and approbation of their <hi>Preſbyterian Cenſures;</hi> which we humbly hope the Parliament will never permit.</p>
+            <div type="list_of_Presbyterian_books">
+               <head>The Catalogue and Contents of ſome of thoſe <hi>Presby<g ref="char:EOLhyphen"/>terian</hi> books, the greateſt part of which have been printed and publiſhed in England, within theſe 3. laſt years, againſt the Parliament and preſent go<g ref="char:EOLhyphen"/>vernment.</head>
+               <p n="1">1. <hi>Scotch Papers</hi> abundantly extant.</p>
+               <p n="2">2. <hi>Hiſtory of Independency</hi> firſt and ſecond part.</p>
+               <p n="3">3. A plea for Non-ſubſcribers.</p>
+               <p n="4">4. An Anſwer to Bonds and Bounds.</p>
+               <p n="5">5. Several Pamphlets in vindication of Mr. <hi>Love,</hi> whom they account a <hi>Martyr</hi> (as in the Preface to his Sermons) and charge the <hi>Parliament</hi> with <hi>injuſtice,</hi> in putting him to death, &amp;c. More particulary Mr. <hi>Calamy</hi> in his late <hi>Epistle</hi> before Mr. <hi>Loves</hi> 17. Sermons, and his funeral Sermon, hangs out a Flag of Defiance to the <hi>State,</hi> proclaming Mr. <hi>Love</hi> to die <hi>in and for the Lord.</hi> And the Saints he calls <hi>Murtherers, Traitors, Rebels, Blaſphemers, Sooth-ſayers, Adulterers, Perjurers, Oppreſſors,</hi> &amp;c. and chargeth the higheſt ſins to have <hi>aſcended into Pulpits and Thrones,</hi> &amp;c.</p>
+               <p n="6">6.
+<q>
+                     <l>Manus teſtium,</l>
+                     <l>Linguae teſtium, Digitus teſtium,</l>
+                  </q>
+which in the Epiſtle hath theſe words, <hi>The Dragon ſeems to have got the better</hi> (meaning the Parliament and Army) and a little fur<g ref="char:EOLhyphen"/>ther theſe words, <hi>Our deſign is onely to unbowell that little big-bel<g ref="char:EOLhyphen"/>lied
+<pb n="15" facs="tcp:115442:7"/>
+viper (of the Romiſh Conclaves hatching) the Ingagement, which, like the</hi> Trojan Horſe, <hi>hath concealed in the belly of it, the ruin of the lawful magistracy, lawful miniſtry, and the lawful re<g ref="char:EOLhyphen"/>formed Religion, &amp;c.</hi>
+               </p>
+            </div>
+            <div type="description_of_book">
+               <head>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> OR A Narration of myſteries of State, &amp;c.</head>
+               <p>A moſt malicious and ſcandalous book againſt the State and preſent government; the main deſign of it being to prove that the preſent Parliament and Army are of the <hi>Spaniſh faction,</hi> and that the ſame faction hath carried on a deſign here ever ſince King <hi>James's</hi> time, with much bitterneſs and reproach to the Parliament and Army, &amp;c.</p>
+               <p>For a taſt, the Epiſtle is dedicated to the <hi>Renouned Gentlemen of</hi> Europe, <hi>the Merchants of</hi> England: In the Epiſtle, and through<g ref="char:EOLhyphen"/>out the book, they charge the <hi>Independents</hi> to be the <hi>Spaniſh facti<g ref="char:EOLhyphen"/>on, <g ref="char:V">Ʋ</g>nnatural Rogues, Impudent Traitors and Murtherers,</hi> and ſay they have <hi>murthered the King, and tumbled down his Throne into the dunghil of Democracie.</hi> And concerning the Lord Gene<g ref="char:EOLhyphen"/>ral amongſt other baſe and ſcurrilous language againſt him they call him the <hi>Beaſt,</hi> the <hi>Antichrist, Fox, Serpent, Traitor, Lyar, <g ref="char:V">Ʋ</g>ſurper.</hi> The like language uſe they againſt the <hi>Lord Ireton.</hi>
+               </p>
+               <p>And the Honourable Members of Parliament and the Army, they ſtile <hi>Traitors, Rebels,</hi> the <hi>Spaniſh Faction,</hi> &amp;c.</p>
+               <p>This book. and others of like nature will be proved to be (ſince the Beacon fired) ſold at the ſhops of ſome of the late (Beacon-firing) Stationers.</p>
+               <p>Theſe, with many other Books of like nature, have bin printed and publiſhed by theſe Subſcribers and their fellow <hi>Presbyterians</hi> in <hi>London</hi> within theſe 3 years laſt paſt, which we ſhould not have mentioned but through a neceſſity of <hi>quenching the fire of this Bea<g ref="char:EOLhyphen"/>con;</hi> And of what more dangerous conſequence ſuch Books are, as ſtrike at no leſs than the high ſcandal and diſhonour of the Parlia<g ref="char:EOLhyphen"/>ment, and the very ſubverſion of the preſent Government, than an<g ref="char:EOLhyphen"/>other
+<pb n="16" facs="tcp:115442:8"/>
+ſort of Books whatſoever, which onely expreſs particular opi<g ref="char:EOLhyphen"/>nions in matters of faith or outward worſhip, we leave to all true lovers of their Country to judge; And humbly hope that the Parlia<g ref="char:EOLhyphen"/>ment will not reſtrain any peaceable Spirit from the liberty of pro<g ref="char:EOLhyphen"/>phecying, nor ſhut up the Preſs from any Godly perſons, having due regard to the honour and peace of the Parliament and this Common-wealth.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
